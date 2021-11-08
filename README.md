@@ -1,5 +1,6 @@
 ### Hi there, I'm Dee 👋
 
+- 👩‍🎓 I'm a junior full-stack developer
 - 🔭 I’m currently working on a [Crowdfunding Web Application](https://locally-crowdfund.herokuapp.com/)
 - 🌱 I’m learning ReactJS and Figma
 - 💡 I'm interested in inclusivity 🤗 and cloud architecture ☁️
