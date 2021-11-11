@@ -1,7 +1,7 @@
 ### Hi there, I'm Dee 👋
 
 - 🤓 I'm a junior full-stack developer 
-- 🔭 I’m currently building a full-stack comparison webapp project with Python 🐍 and ReactJS ⚛️
+- 🔭 I’m currently building a full-stack comparison webapp with Python 🐍 and ReactJS ⚛️
 - ✌️ I'm part of a team of voluteer web designers that support an Education not-for profit
 - 🌱 I’m currently studying all things JavaScript 📜
 - 💡 I'm interested in inclusivity 🤗 cloud architecture ☁️ and graphic design 🎨
