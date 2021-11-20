@@ -8,4 +8,4 @@
 - 💬 Ask me about leaving a career in the wine industry 🍷 to pursue my lifelong dream of becoming a Software Engineer 💻
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I swam with sharks 🦈 and jumped off a plane 🪂
-- ✉ Get in touch! [LinkedIn}(https://www.linkedin.com/in/dalila-k-leo-125099156/)
+- ✉ Get in touch [via LinkedIn](https://www.linkedin.com/in/dalila-k-leo-125099156/)
