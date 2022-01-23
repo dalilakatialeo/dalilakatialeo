@@ -1,8 +1,9 @@
 ### Hi there, I'm Dee 👋
 
 - 🤓 I'm a junior full-stack developer 
-- 🔭 I’m currently building a smart grocery shopping assistant with Python (Django) 🐍 and ReactJS ⚛️
-- 🌱 I’m currently studying all things JavaScript 📜 and Figma 🎨
+- 🔭 I’m building a smart grocery shopping assistant with Python (Django) 🐍 and ReactJS ⚛️
+- 💻 I'm currently taking part in my first Hackathon!
+- 🌱 I’m currently studying all things JavaScript 📜
 - 💡 I'm interested in inclusivity and accessible design 🤗
 - 💬 Ask me about leaving a career in the wine industry 🍷 to pursue my lifelong dream of becoming a Software Engineer 💻
 - 😄 Pronouns: she/her
