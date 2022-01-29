@@ -14,5 +14,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dalilakatialeo&show_icons=true&theme=vue"  width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalilakatialeo&layout=compact&theme=vue" height="165">
   </p>
 
-#### Watch my contributions get eaten by a Snake! 🐍
-![snake gif](https://github.com/dalilakatialeo/dalilakatialeo/blob/output/github-contribution-grid-snake.gif)
+<p align="center"> Uh-oh.. A snake is eating my contributions! 🐍 😨
+<img src="https://github.com/dalilakatialeo/dalilakatialeo/blob/output/github-contribution-grid-snake.gif">
+</p>
