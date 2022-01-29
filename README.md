@@ -9,3 +9,5 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I swam with sharks 🦈 and jumped off a plane 🪂
 - ✉ Get in touch [via LinkedIn](https://www.linkedin.com/in/dalila-k-leo-125099156/)
+
+[![dalilakatialeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalilakatialeo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
