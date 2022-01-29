@@ -10,9 +10,9 @@
 - ⚡ Fun fact: I swam with sharks 🦈 and jumped off a plane 🪂
 - ✉ Get in touch [via LinkedIn](https://www.linkedin.com/in/dalila-k-leo-125099156/) 
 
-[![dalilakatialeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalilakatialeo&show_icons=true&theme=vue)](https://github.com/dalilakatialeo?tab=repositories)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalilakatialeo&layout=compact&theme=vue)](https://github.com/dalilakatialeo?tab=repositories)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dalilakatialeo&show_icons=true&theme=vue"  width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalilakatialeo&layout=compact&theme=vue" height="165">
+  </p>
 
 #### Watch my contributions get eaten by a Snake! 🐍
 ![snake gif](https://github.com/dalilakatialeo/dalilakatialeo/blob/output/github-contribution-grid-snake.gif)
