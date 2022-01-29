@@ -11,3 +11,5 @@
 - ✉ Get in touch [via LinkedIn](https://www.linkedin.com/in/dalila-k-leo-125099156/)
 
 [![dalilakatialeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalilakatialeo&show_icons=true&theme=tokyonight)](https://github.com/dalilakatialeo?tab=repositories)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalilakatialeo&layout=compact&theme=tokyonight)](https://github.com/dalilakatialeo?tab=repositories)
