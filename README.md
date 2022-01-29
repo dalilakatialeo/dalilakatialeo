@@ -1,4 +1,4 @@
-### Hi there, I'm Dee 👋
+<h3 align="center">Hi there, I'm Dee 👋</h3>
 
 - 🤓 I'm a junior full-stack developer 
 - 🔭 I’m building a smart grocery shopping assistant with Python (Django) 🐍 and ReactJS ⚛️
@@ -14,6 +14,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dalilakatialeo&show_icons=true&theme=vue"  width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalilakatialeo&layout=compact&theme=vue" height="165">
   </p>
 
-<p align="center"> Help! A snake is eating my contributions! 🐍 😨
+<h5 align="center"> Help! A snake is eating my contributions! 🐍 😨
 <img src="https://github.com/dalilakatialeo/dalilakatialeo/blob/output/github-contribution-grid-snake.gif">
-</p>
+</h5>
