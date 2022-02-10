@@ -2,7 +2,7 @@
 
 - 🤓 I'm a junior full-stack developer 
 - 🔭 I’m building a smart grocery shopping assistant with Python (Django) 🐍 and ReactJS ⚛️
-- 💻 I have just completed my first [Hackathon](https://devpost.com/software/reading-challenge-app) !
+- 💻 I have just completed my first [Hackathon](https://devpost.com/software/reading-challenge-app) 📚! 
 - 🌱 I’m currently studying all things JavaScript 📜
 - 💡 I'm interested in inclusivity and accessible design 🤗
 - 💬 Ask me about leaving a career in the wine industry 🍷 to pursue my lifelong dream of becoming a Software Engineer 💻
