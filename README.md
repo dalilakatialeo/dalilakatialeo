@@ -1,7 +1,7 @@
 <h3 align="center">Hi there, I'm Dee 👋</h3>
 
 - 🤓 I'm a full-stack developer, currently working with Python 🐍 and JS (Vue)
-- 🔭 I’m currently building a smart streaming service catalogue with SvelteKit
+- 🔭 I’m currently building a smart streaming service catalogue
 - 💡 I'm interested in inclusivity, accessible design and assistive technologies 🤗
 - ✉ Get in touch [via LinkedIn](https://www.linkedin.com/in/dalila-k-leo-125099156/) 
 
