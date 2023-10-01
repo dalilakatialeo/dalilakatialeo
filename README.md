@@ -6,5 +6,5 @@
 - ✉ Get in touch [via LinkedIn](https://www.linkedin.com/in/dalila-k-leo-125099156/) 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dalilakatialeo&show_icons=true&theme=vue"  width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalilakatialeo&layout=compact&theme=vue" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalilakatialeo&layout=compact&theme=vue" height="165">
   </p>
