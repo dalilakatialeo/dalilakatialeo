@@ -1,4 +1,4 @@
-<h3 align="center">Hi there, I'm Dee 👋</h3>
+<h3>Hi there, I'm Dee 👋</h3>
 
 - 🤓 I'm a full-stack developer, currently working with Python 🐍 and JS (Vue)
 - 🔭 I’m currently building a smart streaming service catalogue called [Whatsiton?](https://github.com/dalilakatialeo/whatsiton)
