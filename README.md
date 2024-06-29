@@ -1,6 +1,6 @@
 <h3>Hi there, I'm Dee 👋</h3>
 
-- 🤓 I'm a full-stack engineer, currently working with Python and Vue.js 
+- 🤓 I'm a full-stack engineer, currently working with Python and TypeScript
 - 🎥 I have recently built a smart streaming service catalogue called [Whatsiton?](https://github.com/dalilakatialeo/whatsiton)
 - 🍷 I'm building a fine wine marketplace leveraging LivEx APIs
 - 🌱 I'm currently studying C and Geographic Information Systems
